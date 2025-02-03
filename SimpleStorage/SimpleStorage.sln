@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleStorage", "SimpleStorage\SimpleStorage.csproj", "{644A4684-663F-4FAF-985C-01233D729AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644A4684-663F-4FAF-985C-01233D729AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644A4684-663F-4FAF-985C-01233D729AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644A4684-663F-4FAF-985C-01233D729AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644A4684-663F-4FAF-985C-01233D729AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A715D25-C5E3-46C8-969C-69D9B0FC8F8A}
+	EndGlobalSection
+EndGlobal

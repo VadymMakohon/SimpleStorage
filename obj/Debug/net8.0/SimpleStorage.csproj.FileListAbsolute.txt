@@ -1,0 +1,13 @@
+/Users/vadymmakohon/Desktop/SimpleStorage/bin/Debug/net8.0/SimpleStorage
+/Users/vadymmakohon/Desktop/SimpleStorage/bin/Debug/net8.0/SimpleStorage.deps.json
+/Users/vadymmakohon/Desktop/SimpleStorage/bin/Debug/net8.0/SimpleStorage.runtimeconfig.json
+/Users/vadymmakohon/Desktop/SimpleStorage/bin/Debug/net8.0/SimpleStorage.dll
+/Users/vadymmakohon/Desktop/SimpleStorage/bin/Debug/net8.0/SimpleStorage.pdb
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.csproj.CoreCompileInputs.cache
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.sourcelink.json
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.dll
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/refint/SimpleStorage.dll
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.pdb
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/SimpleStorage.genruntimeconfig.cache
+/Users/vadymmakohon/Desktop/SimpleStorage/obj/Debug/net8.0/ref/SimpleStorage.dll
