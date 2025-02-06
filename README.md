@@ -7,4 +7,4 @@ If you like this project, give it a ⭐ on GitHub! Your support motivates means 
 
 ## 👤Contributor
 
-- [Vadym Makohon](https://github.com/VadymMakohon)**
+- [Vadym Makohon](https://github.com/VadymMakohon)
